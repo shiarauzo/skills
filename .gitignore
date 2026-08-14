@@ -1,0 +1,10 @@
+# Real outreach examples stay local — they name real people.
+**/references/examples.md
+
+# Packaged skills
+*.skill
+dist/
+
+.DS_Store
+__pycache__/
+*.pyc
