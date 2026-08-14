@@ -63,7 +63,7 @@ harvest, and how to judge fit honestly. The output is three things the draft nee
 Two checks that kill drafts before they are written:
 
 - **Footprint.** Which of the event's cities or segments is actually their market? A
-  company that operates in one of the event's countries knows it, and pitching them five reads
+  company that operates in one of five countries knows it, and pitching them five reads
   as either sloppy or dishonest. Size the ask to the real overlap and name the limit out
   loud in the draft — see "Sizing the ask" below.
 - **Slot availability.** Is the activation being offered already promised to another
@@ -221,7 +221,7 @@ access, never conversion.
 
 **Name the limit before they do.** When only part of the event is their market, say so
 and let the number that is true carry the pitch. Admitting that four of five cities are
-brand reach and only one is real users makes the whole email credible; hiding it means the
+brand reach and one is real users makes the whole email credible; hiding it means the
 recipient finds it in ten seconds and stops reading.
 
 **Lower the tier when the overlap is partial.** Asking for the top tier on a fraction of
@@ -362,7 +362,7 @@ partner decides whether to forward it in about thirty seconds.
 ## Tells that the email was written by a machine
 
 These are what a reader registers as "AI wrote this", even when they could not name why.
-All four come from over-applying a rule that is correct in moderation.
+All five come from over-applying a rule that is correct in moderation.
 
 **1. A "what you don't get" section.** The footprint rule says to name the limit. It does
 not say to give the limit a heading. The limit is a clause inside a sentence about what
@@ -384,7 +384,21 @@ list with a sentence instead: `For that USD 2,500, you get:`
 **3. Announcing your own tone.** `Voy directo.` `Seré breve.` `Sin rodeos.` Being direct
 is demonstrated, never declared. The sentence costs a line and proves the opposite.
 
-**4. Manufactured urgency.** `Esto se cierra esta semana.` `Quedan pocos cupos.` Real
+**4. Narrating your own reasoning.** The email states what you want and what they get. It
+does not walk the recipient through how you arrived at the ask.
+
+- Wrong: `I'm not going to ask you for credits. Your free tier already covers what 300
+  builders need in twelve hours, and asking for it would be asking for something you
+  already give away.`
+- Right: delete it and make the actual ask.
+
+The reasoning feels like it earns credibility — it shows research, it preempts an
+objection, it sounds smart. It does none of that from the reader's side, where it is forty
+words about a thing they are not being offered. Credibility comes from the ask being
+right, not from explaining why it is right. This is the same failure as tell 1: both build
+a paragraph out of a negation instead of spending it on the offer.
+
+**5. Manufactured urgency.** `Esto se cierra esta semana.` `Quedan pocos cupos.` Real
 deadlines are facts with dates — `las postulaciones cierran el 15 de agosto` — and belong
 with the other facts. Invented pressure is the oldest tell there is.
 

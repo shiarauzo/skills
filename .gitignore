@@ -8,3 +8,6 @@ dist/
 .DS_Store
 __pycache__/
 *.pyc
+
+# Sync helper: names private terms, stays local.
+.sync-public.py

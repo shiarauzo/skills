@@ -50,7 +50,7 @@ meetup, a mutual introduction. This is not cold email and should not read like o
 Three differences:
 
 1. **Name the meeting in the second sentence**, with the teammate's first name and the
-   event. `{Compañero} los conoció en {evento} y quedamos en que yo continuaba por acá.`
+   event. `{Teammate} met you at {event} and I said I would pick it up from here.`
    It answers "who is this" before the recipient has to wonder.
 2. **Skip the warmth line and the proof-of-use opener.** The meeting is the credential.
 3. **Ask sooner.** A warm thread earns the number in the body rather than at the end.
