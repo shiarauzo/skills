@@ -1,7 +1,8 @@
 # skills
 
-Agent Skills I use with [Claude Code](https://claude.com/claude-code). Each one packages
-a workflow I run often enough that re-explaining it every time was the bottleneck.
+Agent Skills I use with Cursor and
+[Claude Code](https://claude.com/claude-code). Each one packages a workflow I
+run often enough that re-explaining it every time was the bottleneck.
 
 Built and maintained by [Shiara Arauzo](https://github.com/shiarauzo).
 
@@ -10,25 +11,26 @@ Built and maintained by [Shiara Arauzo](https://github.com/shiarauzo).
 | Skill | What it does |
 |---|---|
 | [`cold-email`](./cold-email) | Writes cold outreach asking a company to sponsor or partner on an event. Researches the prospect's product first, then drafts against a skeleton extracted from emails that actually got replies. Ships with a validator that rejects the draft if it reads like bulk mail. |
+| [`talk-decks`](./talk-decks) | Designs clean, content-first talk decks with direct copy, a maximum three-color palette, and invisible presentation controls. |
 
 ## Install
 
-Skills live in `~/.claude/skills/` (available everywhere) or `.claude/skills/` inside a
-project (available in that repo only).
+For Cursor, skills live in `~/.cursor/skills/` or `.cursor/skills/`. For Claude
+Code, use `~/.claude/skills/` or `.claude/skills/`.
 
 ```bash
 git clone https://github.com/shiarauzo/skills.git
-cp -r skills/cold-email ~/.claude/skills/
+cp -r skills/talk-decks ~/.cursor/skills/
 ```
 
 Or symlink, so a `git pull` updates the skill in place:
 
 ```bash
-ln -s "$(pwd)/skills/cold-email" ~/.claude/skills/cold-email
+ln -s "$(pwd)/skills/talk-decks" ~/.cursor/skills/talk-decks
 ```
 
-Claude picks the skill up automatically based on its `description` — no configuration.
-Invoke it explicitly with `/cold-email`, or just describe the task and let it trigger.
+Cursor and Claude Code pick skills up based on their `description`. Invoke one
+explicitly with `/talk-decks`, or describe the task and let it trigger.
 
 ## Structure
 
