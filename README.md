@@ -12,6 +12,7 @@ Built and maintained by [Shiara Arauzo](https://github.com/shiarauzo).
 |---|---|
 | [`cold-email`](./cold-email) | Writes cold outreach asking a company to sponsor or partner on an event. Researches the prospect's product first, then drafts against a skeleton extracted from emails that actually got replies. Ships with a validator that rejects the draft if it reads like bulk mail. |
 | [`talk-decks`](./talk-decks) | Designs clean, content-first talk decks with direct copy, a maximum three-color palette, and invisible presentation controls. |
+| [`user-persona`](./user-persona) | Interviews one question at a time until a specific user persona is clear: moment, bio, goals, frustrations, and the rest. Recommends an answer on every question. |
 
 ## Install
 

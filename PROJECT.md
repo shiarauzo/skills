@@ -4,7 +4,7 @@ This file is public. Do not include personal context, private goals, names of
 people from the vault, health information, private decisions, or local vault
 paths.
 
-**Last updated:** 2026-08-14  
+**Last updated:** 2026-10-09  
 **Status:** active  
 **Type:** other
 
@@ -21,12 +21,12 @@ clear, installable, and publicly safe instructions.
 ## Current state
 
 The repository documents the public skill format and ships reusable workflows
-for cold outreach and clean, content-first talk decks. Installation guidance
-covers both Cursor and Claude Code.
+for cold outreach, content-first talk decks, and a one-question user-persona
+interview. Installation guidance covers both Cursor and Claude Code.
 
 ## Next action
 
-Verify `talk-decks` discovery and slash invocation after a fresh Cursor reload.
+Invoke `/user-persona` on a real product and note which question is redundant.
 
 ## Links
 
